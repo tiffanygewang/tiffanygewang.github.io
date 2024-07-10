@@ -247,8 +247,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _unused_pages/  # Exclude this folder and its contents
-  - _unused_pages/*  # Ensure all files within the folder are excluded
+  - _pages_unused/  # Exclude this folder and its contents
+  - _pages_unused/*  # Ensure all files within the folder are excluded
 keep_files:
   - CNAME
   - .nojekyll
