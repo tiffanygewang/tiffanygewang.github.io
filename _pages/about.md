@@ -22,4 +22,4 @@ I lead the `OATS Lab` (Openness, Autonomy, Trust in Supportive AI). As AI become
 
 I will be doing a one-year postdoctoral fellowship at [Stanford HAI](https://hai.stanford.edu/) from 2024 to 2025 before starting my faculty appointment. I received my D.Phil (Ph.D.) in Computer Science from the Department of Computer Science at the University of Oxford and completed my Master's (MSc) in Information Science at UCL. I did my undergraduate studies in Physics at the University of Oxford.
 
-`I have multiple openings for PhDs/Postdocs starting Fall 2025. I always love to work with self-motivated undergraduates, graduate students on various research projects on human-centered AI / usable privacy & security. Shoot me an email if you are interested!`
+`I have multiple openings for PhDs/Postdocs starting Fall 2025. I always love to work with self-motivated undergraduates, graduate students on various research projects on human-computer interaction / human-centered AI. Shoot me an email if you are interested!`
