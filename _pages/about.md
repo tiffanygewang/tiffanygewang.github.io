@@ -15,7 +15,6 @@ profile:
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-posts: false
 ---
 Hi! I am an incoming Assistant Professor at [University of Illinois Urbana-Champaign, Dept of Computer Science](https://cs.illinois.edu/) (starting in Aug, 2025). My research focuses on the intersection of human-computer interaction (HCI), human-centered artificial intelligence (HAI), and usable security and privacy, with a special emphasis on vulnerable populations.
 
