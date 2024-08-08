@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Oxford</a>. ge.wang(at)cs.ox.ac.uk, tiffanygewang(at)acm.org
+subtitle: <a href='#'>Standford University</a>. gew(at)stanford.edu, tiffanygewang(at)acm.org
 
 profile:
   align: right
