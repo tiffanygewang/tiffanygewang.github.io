@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Stanford University</a>. gew(at)stanford.edu, tiffanygewang(at)acm.org
+subtitle: <a href='#'>Stanford University</a>. gew(at)stanford.edu, wangge@illinois.edu
 
 profile:
   align: right
