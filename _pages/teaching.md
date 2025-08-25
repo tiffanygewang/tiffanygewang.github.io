@@ -1,12 +1,15 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Materials for courses I teach.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Teaching
 
-Organize your courses by years, topics, or universities, however you like!
+## CS 598: Ethical Computing in Practice  
+*Fall 2025 · University of Illinois Urbana-Champaign*  
+
+[Course Syllabus & Materials](https://docs.google.com/document/d/1BE5Lgvao7HA06UX5Lnlhf89z5sJJPWFW/edit)
