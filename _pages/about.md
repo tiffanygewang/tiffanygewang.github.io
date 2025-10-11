@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-email: "wangge(at)illinois.edu"
+email: wangge(at)illinois.edu
 
 profile:
   align: right
