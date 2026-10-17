@@ -2,7 +2,7 @@
 layout: page
 permalink: /lab/
 title: "OATS Lab ↗"
-description: under construction.
+external_url: https://tiffanygewang.com/
 nav: true
 nav_order: 6
 ---
