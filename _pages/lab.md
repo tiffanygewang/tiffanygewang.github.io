@@ -2,7 +2,7 @@
 layout: page
 permalink: /lab/
 title: "OATS Lab ↗"
-external_url: https://tiffanygewang.com/
+external_url: https://oatslabuiuc.com/
 nav: true
 nav_order: 6
 ---
